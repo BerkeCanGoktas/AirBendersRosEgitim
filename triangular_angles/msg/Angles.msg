@@ -1,0 +1,2 @@
+float32 first_angle
+float32 second_angle
